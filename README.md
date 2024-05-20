@@ -7,7 +7,6 @@ Frontend:
 Framework: Streamlit for building interactive web apps with Python
 Python for scripting the frontend application logic
 Compatible with major web browsers
-// 
 Backend:
 Python for scripting backend logic
 Database: SQLite database for storing user data, inventory, and shopping lists
