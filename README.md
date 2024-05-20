@@ -3,20 +3,20 @@ The aim of this project is to develop an intelligent app for refrigerators that 
 
 
 # SOFTWARE SPECIFICATION
-Frontend:
+1. Frontend:
 Framework: Streamlit for building interactive web apps with Python
 Python for scripting the frontend application logic
 Compatible with major web browsers
-Backend:
+2. Backend:
 Python for scripting backend logic
 Database: SQLite database for storing user data, inventory, and shopping lists
 Integration with YOLO for image processing
 Integration with Spoonacular API for recipe recommendations
-Image Processing:
+3. Image Processing:
 YOLO (You Only Look Once) object detection model
 Python for scripting image processing logic
 Integration with backend server for processing uploaded images
-API Integration:
+4. API Integration:
 Spoonacular API for recipe recommendations
 Authentication mechanism for accessing the API
 
