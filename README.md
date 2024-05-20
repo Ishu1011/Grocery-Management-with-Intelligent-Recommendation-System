@@ -23,7 +23,7 @@ Authentication mechanism for accessing the API
 
 # Steps:
 1. Clone the project in jupyter lab/Notebook
-2. Open the Smart-Refrigerator-A-Deep-Learning-based-Recipe-Recommendation-System/Smart-Refrigerator-A-Deep-Learning-based-Recipe-Recommendation-System-SmartRefrigerator_YOLOv5.ipynb file and follow the code instructions.
+2. Open the grocery.ipynb file and follow the code instructions.
 3. After Training hte model run the yolov5/app.py with
 code : streamlit run app.py
 
